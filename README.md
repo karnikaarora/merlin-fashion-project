@@ -23,6 +23,4 @@ Google Fonts integration for typography
 
 Responsive navbar with hamburger menu for mobile devices
 
-Live Demo
-You can check out the project live on your local machine by opening the file:
-file:///D:/merlin%20fashion%20project/Merlin-Fashion/index.html 
+
