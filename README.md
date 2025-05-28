@@ -25,5 +25,4 @@ Responsive navbar with hamburger menu for mobile devices
 
 Live Demo
 You can check out the project live on your local machine by opening the file:
-file:///D:/merlin%20fashion%20project/Merlin-Fashion/index.html
-nhi kuch to merlin fashion ke pehle likhte for the readme file 
+file:///D:/merlin%20fashion%20project/Merlin-Fashion/index.html 
