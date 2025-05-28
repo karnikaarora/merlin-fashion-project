@@ -1,5 +1,4 @@
-Merlin Fashion
-Merlin Fashion is a sustainable fashion website dedicated to promoting eco-friendly and ethical clothing choices. The platform offers a clean, user-friendly interface built with modern front-end technologies, providing visitors an easy way to browse and shop responsibly.
+# Merlin Fashion — Where Sustainability Meets StyleMerlin Fashion is a sustainable fashion website dedicated to promoting eco-friendly and ethical clothing choices. The platform offers a clean, user-friendly interface built with modern front-end technologies, providing visitors an easy way to browse and shop responsibly.
 
 Features
 Categories: Explore diverse fashion categories to find your perfect sustainable style.
